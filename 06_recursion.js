@@ -18,4 +18,4 @@ const fibonachi = (n) => { // function found n number in fibonachi row
   return fibonachi(n - 1) + fibonachi(n - 2)
 }
 
-console.log('fibonachi   =', fibonachi(77))
+console.log('fibonachi   =', fibonachi(7))
